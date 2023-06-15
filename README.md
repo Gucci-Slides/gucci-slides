@@ -1,4 +1,4 @@
-![Header](./)
+![Header](./githubgif.gif)
 <h1 align="center">hi, i'm arliss</h1>
 <h3 align="center">0.01x engineer. just trying to suck less.</h3>
 
