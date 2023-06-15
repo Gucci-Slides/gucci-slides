@@ -1,4 +1,4 @@
-![Header](https://github.com/Gucci-Slides/gucci-slides/assets/23535221/2c0ae872-1b87-4475-acd7-4f7d47a2d60c)
+![Header](https://github.com/Gucci-Slides/gucci-slides/assets/23535221/5e9dcdb6-d788-4a12-a3f1-0ba496753339)
 
 
 
