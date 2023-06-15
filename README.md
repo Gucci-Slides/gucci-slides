@@ -1,4 +1,7 @@
-![Header](./githubgif.gif)
+![Header](https://github.com/Gucci-Slides/gucci-slides/assets/23535221/2c0ae872-1b87-4475-acd7-4f7d47a2d60c)
+
+
+
 <h1 align="center">hi, i'm arliss</h1>
 <h3 align="center">0.01x engineer. just trying to suck less.</h3>
 
