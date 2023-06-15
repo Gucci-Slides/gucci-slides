@@ -13,8 +13,9 @@
 </a>
 </br>
 <a href="/" target="_blank"> <img align="center" src="https://github.com/Gucci-Slides/gucci-slides/assets/23535221/21efe322-0076-43b1-92bb-18b11f721968" width="33%"/> </a>
-<a href="/" target="_blank"> <img align="center" src="https://github.com/Gucci-Slides/gucci-slides/assets/23535221/71801c52-028a-4ff7-bc80-f6184594c15f" width="33%"/> </a>
+<a href="/" target="_blank"> <img align="center" src="https://github.com/Gucci-Slides/gucci-slides/assets/23535221/658ec143-8215-4c61-8883-32825bd209d2" width="33%"/> </a>
 <a href="/" target="_blank"> <img align="center" src="https://github.com/Gucci-Slides/gucci-slides/assets/23535221/a645fd96-c8be-4a42-9d4c-fc4e67c15cb5" width="33%"/> </a>
+
 
 
 
