@@ -25,17 +25,6 @@
 # 
 
 <br/>
-<img align="right" width="38%" src="https://github.com/Gucci-Slides/gucci-slides/assets/23535221/1ddb36b4-f394-4037-a539-45093da1ff16"/>
-
-  <a href="https://github.com/gucci-slides"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=gucci-slides&theme=transparent&border_color=12171e&text_color=C9D1D9&hide_title=true&ring_color=0DB317&text_bold=false"></a>
-  <a href="https://github.com/gucci-slides"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=gucci-slides&background=0D1117&border=12171e&stroke=1D2430&hide_total_contributions=true&hide_longest_streak=true&currStreakNum=C9D1D9&currStreakLabel=C9D1D9&dates=C9D1D9&ring=0DB317&fire=C9D1D9"></a>
-
-#
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gucci-slides&repo=spotify-analysis&theme=transparent&border_color=12171e&text_color=C9D1D9&hide_title=true&ring_color=0DB317&text_bold=false")
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gucci-slides&repo=university-search-engine&theme=transparent&border_color=12171e&text_color=C9D1D9&hide_title=true&ring_color=0DB317&text_bold=false")
-
-
-#
 
 
 <!-- LANGUAGES -->
